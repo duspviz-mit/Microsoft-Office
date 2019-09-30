@@ -1,7 +1,7 @@
 # DUSPviz Workshop - Intro to Microsoft Excel
 ### 10/01/2019 by Yuan Lai
 
-This workshop provides you the basics of excel and some intermediate techniques of data inspection and preparatin for GIS or data science project. Prevoiusly, the DUSPViz team has complied overviews, tips, tricks, and functions in an [__Excel Worksheet__](http://duspviz.mit.edu/wp-content/uploads/2014/09/ExcelWorksheet_DUSPVIZ_2014.xlsx). It is highly recommended to go through this worksheet before the workshop. As a tutorial and a case study, we will look into some Airbnb listings in Boston Area. The completion of this workshop will provide the following key learning points:
+This workshop provides you the basics of excel and some intermediate techniques of data inspection and preparation for GIS or data science project. Previously, the DUSPViz team has complied overviews, tips, tricks, and functions in an [__Excel Worksheet__](http://duspviz.mit.edu/wp-content/uploads/2014/09/ExcelWorksheet_DUSPVIZ_2014.xlsx). It is highly recommended to go through this worksheet before the workshop. As a tutorial and a case study, we will look into some Airbnb listings in Boston Area. The completion of this workshop will provide the following key learning points:
 1. Data Inspection
     - Data Dimension
     - Metadata
@@ -15,10 +15,10 @@ This workshop provides you the basics of excel and some intermediate techniques 
     - Box Plot
     - Statistical Summary with Conditions
         
-In this workshop, we will also discuss some advanced skills of using Excel for GIS and data science:
+In this workshop, we will also discuss using Excel for GIS and data science:
    - Understand the concept of metadata
-   - Learn the difference between Excel and csv data format
-   - Workflow of using Excel, GIS tools (ArcGIs/QGIS), and Python
+   - Learn the difference between Excel and CSV data format
+   - The workflow of using Excel, GIS tools (ArcGIS/QGIS), and Python
 
 
 ### Pre-Workshop Short Tutorials
